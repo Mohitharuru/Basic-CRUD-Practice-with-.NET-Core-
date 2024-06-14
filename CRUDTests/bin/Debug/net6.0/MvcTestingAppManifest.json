@@ -1,0 +1,8 @@
+{
+  "CRUDExample, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\ASP NET Core\\CRUDSolution\\CRUDExample",
+  "Entities, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\ASP NET Core\\CRUDSolution\\Entities",
+  "RepositaryContracts, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\ASP NET Core\\CRUDSolution\\RepositaryContracts",
+  "Repositries, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\ASP NET Core\\CRUDSolution\\Repositries",
+  "ServiceContracts, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\ASP NET Core\\CRUDSolution\\ServiceContracts",
+  "Services, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\ASP NET Core\\CRUDSolution\\Services"
+}

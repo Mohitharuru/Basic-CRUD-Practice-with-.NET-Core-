@@ -1,0 +1,17 @@
+C:\ASP NET Core\CRUDSolution\Repositries\obj\Debug\net6.0\Repositries.csproj.AssemblyReference.cache
+C:\ASP NET Core\CRUDSolution\Repositries\obj\Debug\net6.0\Repositries.GeneratedMSBuildEditorConfig.editorconfig
+C:\ASP NET Core\CRUDSolution\Repositries\obj\Debug\net6.0\Repositries.AssemblyInfoInputs.cache
+C:\ASP NET Core\CRUDSolution\Repositries\obj\Debug\net6.0\Repositries.AssemblyInfo.cs
+C:\ASP NET Core\CRUDSolution\Repositries\obj\Debug\net6.0\Repositries.csproj.CoreCompileInputs.cache
+C:\ASP NET Core\CRUDSolution\Repositries\bin\Debug\net6.0\Repositries.deps.json
+C:\ASP NET Core\CRUDSolution\Repositries\bin\Debug\net6.0\Repositries.dll
+C:\ASP NET Core\CRUDSolution\Repositries\bin\Debug\net6.0\Repositries.pdb
+C:\ASP NET Core\CRUDSolution\Repositries\bin\Debug\net6.0\Entities.dll
+C:\ASP NET Core\CRUDSolution\Repositries\bin\Debug\net6.0\RepositaryContracts.dll
+C:\ASP NET Core\CRUDSolution\Repositries\bin\Debug\net6.0\Entities.pdb
+C:\ASP NET Core\CRUDSolution\Repositries\bin\Debug\net6.0\RepositaryContracts.pdb
+C:\ASP NET Core\CRUDSolution\Repositries\obj\Debug\net6.0\Repositr.4239D4E9.Up2Date
+C:\ASP NET Core\CRUDSolution\Repositries\obj\Debug\net6.0\Repositries.dll
+C:\ASP NET Core\CRUDSolution\Repositries\obj\Debug\net6.0\refint\Repositries.dll
+C:\ASP NET Core\CRUDSolution\Repositries\obj\Debug\net6.0\Repositries.pdb
+C:\ASP NET Core\CRUDSolution\Repositries\obj\Debug\net6.0\ref\Repositries.dll

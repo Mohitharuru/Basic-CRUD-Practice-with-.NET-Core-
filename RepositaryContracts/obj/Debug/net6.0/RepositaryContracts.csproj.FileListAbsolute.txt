@@ -1,0 +1,15 @@
+C:\ASP NET Core\CRUDSolution\RepositaryContracts\bin\Debug\net6.0\RepositaryContracts.deps.json
+C:\ASP NET Core\CRUDSolution\RepositaryContracts\bin\Debug\net6.0\RepositaryContracts.dll
+C:\ASP NET Core\CRUDSolution\RepositaryContracts\bin\Debug\net6.0\RepositaryContracts.pdb
+C:\ASP NET Core\CRUDSolution\RepositaryContracts\bin\Debug\net6.0\Entities.dll
+C:\ASP NET Core\CRUDSolution\RepositaryContracts\bin\Debug\net6.0\Entities.pdb
+C:\ASP NET Core\CRUDSolution\RepositaryContracts\obj\Debug\net6.0\RepositaryContracts.csproj.AssemblyReference.cache
+C:\ASP NET Core\CRUDSolution\RepositaryContracts\obj\Debug\net6.0\RepositaryContracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\ASP NET Core\CRUDSolution\RepositaryContracts\obj\Debug\net6.0\RepositaryContracts.AssemblyInfoInputs.cache
+C:\ASP NET Core\CRUDSolution\RepositaryContracts\obj\Debug\net6.0\RepositaryContracts.AssemblyInfo.cs
+C:\ASP NET Core\CRUDSolution\RepositaryContracts\obj\Debug\net6.0\RepositaryContracts.csproj.CoreCompileInputs.cache
+C:\ASP NET Core\CRUDSolution\RepositaryContracts\obj\Debug\net6.0\Reposita.E323795C.Up2Date
+C:\ASP NET Core\CRUDSolution\RepositaryContracts\obj\Debug\net6.0\RepositaryContracts.dll
+C:\ASP NET Core\CRUDSolution\RepositaryContracts\obj\Debug\net6.0\refint\RepositaryContracts.dll
+C:\ASP NET Core\CRUDSolution\RepositaryContracts\obj\Debug\net6.0\RepositaryContracts.pdb
+C:\ASP NET Core\CRUDSolution\RepositaryContracts\obj\Debug\net6.0\ref\RepositaryContracts.dll
